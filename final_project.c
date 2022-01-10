@@ -4,9 +4,11 @@
 #include<stdlib.h>
 #include<time.h>
 #include<windows.h>
+
 void firstMenu ();
 void signUp ();
 void logIn ();
+
 void main()
 {
     firstMenu();
@@ -37,6 +39,7 @@ void signUp ()
 {
     printf("1");
 }
+
 void logIn ()
 {
     printf("2");
