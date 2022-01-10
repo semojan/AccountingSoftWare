@@ -35,6 +35,7 @@ void firstMenu ()//this function is the first menu displayed for the user
         }
 }
 
+
 void signUp ()
 {
     printf("1");
